@@ -2,6 +2,11 @@
 
 Website full made on HTML about some concepts of AI
 
+How to see it?
+
+    1.Download/clone the repository.
+    2.Open "Index.html"
+
 
 This proyect has 3 pages:
 
@@ -41,8 +46,10 @@ This proyect has 3 pages:
   -About Me:
   
     This page is about me and it contains basic information of me.
-  
-  
-How to view it:
 
-Download all archives from Develop branch, execute index.html
+
+My Links:
+
+    -Linkedin: https://www.linkedin.com/in/tomascontreras1307/
+    -Github: https://github.com/TomasConari
+    -Email: tomasconari@gmail.com
